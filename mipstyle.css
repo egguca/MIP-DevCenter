@@ -1,0 +1,50 @@
+.nyabtn {
+background-color: #c284ff;
+color: #260b37;
+text-align: center;
+font-size: 100%;
+min-width: 30%;
+max-width: 30%;
+padding: .5rem .75rem;
+font-family: "Assistant", sans-serif;
+border-radius: 6px;
+border: none;
+}
+
+.nyabtn-long {
+background-color: #c284ff;
+color: #260b37;
+text-align: center;
+font-size: 100%;
+padding: .5rem .75rem;
+font-family: "Assistant", sans-serif;
+border-radius: 6px;
+border: none;
+}
+
+.linkuwu {
+color:#8550a5;
+font-family: "Overpass Mono", monospace;
+font-size: 100%;
+letter-spacing: .5px;
+}
+
+.linkuwubig {
+color:#8550a5;
+font-family: "Overpass Mono", monospace;
+font-size: 115%;
+letter-spacing: .5px;
+}
+
+.color-title {
+font-family: "Assistant", sans-serif;
+text-align: center;
+font-size: 190%;
+font-weight: semibold;
+color: #c284ff;
+}
+
+.darkline {
+background: #0c0c10;
+opacity:0.8;
+}
