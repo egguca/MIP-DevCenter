@@ -26,7 +26,7 @@ color: #cdcccd;
 font-family: "Overpass Mono", monospace;
 font-size:80%;
 letter-spacing: .5px;
-line-height: 1.75;
+line-height: 1.5;
 font-weight: 400;
 }
 
@@ -59,7 +59,7 @@ font-family: "Overpass Mono", monospace;
 font-size: 90%;
 font-weight: 300;
 letter-spacing: .5px;
-line-height: 1.75;
+line-height: 1.5;
 }
 
 .blurb-text2 {
@@ -67,6 +67,13 @@ color: #a4a2a9;
 font-family: "Overpass Mono", monospace;
 font-size:70%;
 letter-spacing: .5px;
+}
+
+.cutespace {
+color: #19181e;
+font-family: "Overpass Mono", monospace;
+font-size:80%;
+line-height: 0.5;
 }
 
 
