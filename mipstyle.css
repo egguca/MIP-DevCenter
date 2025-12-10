@@ -2,12 +2,12 @@
 background-color: #c284ff;
 color: #260b37;
 text-align: center;
-font-size: 100%;
-min-width: 30%;
-max-width: 30%;
-padding: .5rem .75rem;
+font-size: 0.95rem;
+min-width: 40%;
+max-width: 40%;
+padding: .5rem .5rem;
 font-family: "Assistant", sans-serif;
-border-radius: 6px;
+border-radius: 7px;
 border: none;
 }
 
@@ -15,10 +15,10 @@ border: none;
 background-color: #c284ff;
 color: #260b37;
 text-align: center;
-font-size: 100%;
-padding: .5rem .75rem;
+font-size: 1rem;
+padding: .5rem .5rem;
 font-family: "Assistant", sans-serif;
-border-radius: 6px;
+border-radius: 7px;
 border: none;
 }
 
