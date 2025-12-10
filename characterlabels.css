@@ -1,6 +1,6 @@
 .PU {
 font-weight: bold;
-color: #a562ff;
+color: #9466F7;
 }
 
 .LOF {
@@ -10,12 +10,12 @@ color: #b0d623;
 
 .SLS {
 font-weight: bold;
-color: #feaad4;
+color: #f19ce6;
 }
 
 .TWR {
 font-weight: bold;
-color: #ff555a;
+color: #e4506D;
 }
 
 .NCTG {
@@ -25,10 +25,25 @@ color: #e6bf61;
 
 .SGIS {
 font-weight: bold;
-color: #a562ff;
+color: #40bdc4;
 }
 
 .FB {
 font-weight: bold;
-color: #a562ff;
+color: #b8b9ea;
+}
+
+.NMMST {
+    font-weight: bold;
+    color: #8d89dd;
+}
+
+.ELW {
+    font-weight: bold;
+    color: #92c0c2;
+}
+
+.Ferns {
+    font-weight: bold;
+    color: #1d8813;
 }
