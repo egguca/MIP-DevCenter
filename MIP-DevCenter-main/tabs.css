@@ -1,0 +1,33 @@
+.container .nav .active {
+	background-color: #c284ff !important;
+	color: #260b37; !important;
+	border-color: #653682 !important;
+	border-width: 1px 1px 0px 1px !important;
+	font-family: "Overpass Mono", monospace;
+	font-size: 85%;
+}
+
+.container .nav {
+border-color: #653682 !important;
+border-width: 1px 1px 2px 1px !important;
+}
+
+.container .nav .nav-link {
+color: #8b43b7; !important;
+font-family: "Overpass Mono", monospace;
+font-weight: 300;
+font-size: 85%;
+}
+
+.container .nav .nav-link.active {
+color: #260b37; !important;
+font-family: "Overpass Mono", monospace;
+font-weight: 500;
+font-size: 85%;
+}
+
+.container .nav .nav-link:hover {
+border-width: 1px 1px 0px 1px !important;
+border-color: #653682 !important;
+}
+	

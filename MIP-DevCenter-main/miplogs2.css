@@ -1,0 +1,84 @@
+.broadcast-header {
+font-family: Georgia, serif;
+text-align: center;
+font-size: 125%;
+color: #f1f0f0;
+}
+
+.timeline-label {
+font-family: "Assistant", sans-serif;
+text-align: left;
+font-size: 125%;
+font-weight: 300;
+letter-spacing: .75px;
+color: #f1f0f0;
+}
+
+.blurb-text {
+color: #cdcccd;
+font-family: "Assistant", sans-serif;
+font-size:90%;
+letter-spacing: .5px;
+}
+
+.logs-text {
+color: #cdcccd;
+font-family: "Overpass Mono", monospace;
+font-size:80%;
+letter-spacing: .5px;
+line-height: 1.6;
+font-weight: 400;
+}
+
+.authors-notes {
+color: #f1f0f0;
+font-family: "Overpass Mono", monospace;
+font-size:80%;
+font-weight: 300;
+letter-spacing: .5px;
+}
+
+.sysnotes {
+background-color:#37363A;
+color:#cdcccd;
+font-family: Courier, monospace;
+font-size: 105%;
+}
+
+.sysnotes2 {
+background-color:#37363A;
+color:#cdcccd;
+font-family: Courier, monospace;
+font-size: 85%;
+text-align: center;
+}
+
+.logs-text2 {
+color: #cdcccd;
+font-family: "Overpass Mono", monospace;
+font-size: 90%;
+font-weight: 300;
+letter-spacing: .5px;
+line-height: 1.6;
+}
+
+.blurb-text2 {
+color: #a4a2a9;
+font-family: "Overpass Mono", monospace;
+font-size:70%;
+letter-spacing: .5px;
+}
+
+.spoiler, .spoiler2, .spoiler a, .spoiler2 a{ 
+    color: black; 
+    background-color: black;
+  }
+  
+  .spoiler:hover, .spoiler:hover a {
+    color: white;
+  }
+  
+  .spoiler2:hover, .spoiler2:hover a { 
+   background-color:white; 
+  }
+
