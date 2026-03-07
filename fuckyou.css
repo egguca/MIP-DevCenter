@@ -1,0 +1,25 @@
+.logs-text-s2 {
+color: #cdcccd;
+font-family: "Overpass Mono", monospace;
+font-size:80%;
+letter-spacing: .5px;
+line-height: 1.6;
+font-weight: 400;
+margin-top: 0.5rem;
+margin-bottom: 0.5rem;
+}
+
+.logs-text-s3 {
+color: #cdcccd;
+font-family: "Overpass Mono", monospace;
+font-size:80%;
+letter-spacing: .5px;
+line-height: 1.6;
+font-weight: 400;
+margin-top: 0.5rem;
+margin-bottom: 1rem;
+}
+
+.faded-text {
+color: #a4a2a9;
+}
