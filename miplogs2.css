@@ -23,11 +23,11 @@ letter-spacing: .5px;
 
 .logs-text {
 color: #cdcccd;
-font-family: "Overpass Mono", monospace;
-font-size:80%;
-letter-spacing: .5px;
-line-height: 1.6;
-font-weight: 400;
+font-family: "Overpass", sans-serif;
+font-size:85%;
+letter-spacing: .75px;
+line-height: 1.65;
+font-weight: 300;
 }
 
 .authors-notes {
@@ -39,16 +39,15 @@ letter-spacing: .5px;
 }
 
 .sysnotes {
-background-color:#0c0B11;
+background-color:#0f0e15;
 color:#cdcccd;
-font-family: Courier, monospace;
-font-size: 105%;
+font-family: "Overpass Mono", monospace;
 }
 
 .sysnotes2 {
 background-color:#37363A;
 color:#cdcccd;
-font-family: Courier, monospace;
+font-family: "Overpass Mono", monospace;
 font-size: 85%;
 text-align: center;
 }
